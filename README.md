@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sebastian+Pitre;Frontend+Developer;%40sebastianpitre10">
 </p>
 
-## 🚀 Proyectos SENA CBC
+## 🚀 Mis Proyectos Favoritos
 
 | [![Vitrina Web](https://images.unsplash.com/photo-1551434678-e076c223a692?w=500&h=250&fit=crop)](./) | [![Ecosuelos](https://images.unsplash.com/photo-1605000797499-95a51c5269ae?w=500&h=250&fit=crop)](./) |
 |:---------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
