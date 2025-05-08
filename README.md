@@ -1,7 +1,7 @@
 <h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <div align="center">
  
-![CT_HCM](https://raw.githubusercontent.com/id1945/id1945/main/image/chu-tich-ho-chi-minh/ho-tap-tu-tuong-dao-duc-ho-chi-minh.png)
+![CT_HCM](https://i.postimg.cc/L55KWqBc/Black-and-Yellow-Web-Developer-Linked-In-Banner.png)
 </div>
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Ahmad+Waseem+Piracha;Software+Engineer;Frontend+Developer;Mobile+Developer;%40ahmadpiracha">
