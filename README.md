@@ -1,4 +1,4 @@
-<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<h1> Hi there! <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sebastian+Pitre;Frontend+Developer;%40sebastianpitre10"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <div align="center">
  
 ![CT_HCM](https://i.postimg.cc/L55KWqBc/Black-and-Yellow-Web-Developer-Linked-In-Banner.png)
