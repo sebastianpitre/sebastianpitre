@@ -1,4 +1,4 @@
-<h1> Hi there! <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sebastian+Pitre;Frontend+Developer;%40sebastianpitre10"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <div align="center">
  
 ![CT_HCM](https://i.postimg.cc/L55KWqBc/Black-and-Yellow-Web-Developer-Linked-In-Banner.png)
@@ -6,21 +6,67 @@
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sebastian+Pitre;Frontend+Developer;%40sebastianpitre10">
 </p>
-	<img src="https://komarev.com/ghpvc/?username=ahmadpiracha&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+## 🚀 Proyectos SENA CBC
 
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-- 🌱 I’m currently learning **Backend Development**
+<!-- PRIMERA FILA -->
+<div style="width: 48%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; background: #f6f8fa;">
+  <h3 align="center">🌐 Vitrina Web</h3>
+  <p align="center">Sistema de promoción de productos</p>
+  <img src="https://images.unsplash.com/photo-1551434678-e076c223a692?w=500&h=200&fit=crop" style="border-radius: 8px; width: 100%;">
+  <div align="center" style="margin: 10px 0;">
+    <span style="background: #FFA500; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">EN EJECUCIÓN</span>
+  </div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black">
+  </div>
+</div>
 
-- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+<div style="width: 48%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; background: #f6f8fa;">
+  <h3 align="center">🌱 Ecosuelos</h3>
+  <p align="center">Sistema completo de estudio de suelos</p>
+  <img src="https://images.unsplash.com/photo-1605000797499-95a51c5269ae?w=500&h=200&fit=crop" style="border-radius: 8px; width: 100%;">
+  <div align="center" style="margin: 10px 0;">
+    <span style="background: #FFA500; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">EN EJECUCIÓN</span>
+  </div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white">
+  </div>
+</div>
 
-- 💬 Ask me about **React,React Native, Next.js, Node.js**
+<!-- SEGUNDA FILA -->
+<div style="width: 48%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; background: #f6f8fa;">
+  <h3 align="center">🦜 Biosoftware</h3>
+  <p align="center">Sistema de avistamiento de aves</p>
+  <img src="https://images.unsplash.com/photo-1551085254-e96b210db58a?w=500&h=200&fit=crop" style="border-radius: 8px; width: 100%;">
+  <div align="center" style="margin: 10px 0;">
+    <span style="background: #32CD32; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">EN CIERRE</span>
+  </div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white">
+  </div>
+</div>
 
-- 📫 Reach me at **ahmadpiracha3@gmail.com**
+<div style="width: 48%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; background: #f6f8fa;">
+  <h3 align="center">🗺️ Zonificación</h3>
+  <p align="center">Gestión de información de suelos y ubicación</p>
+  <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=500&h=200&fit=crop" style="border-radius: 8px; width: 100%;">
+  <div align="center" style="margin: 10px 0;">
+    <span style="background: #32CD32; color: white; padding: 3px 8px; border-radius: 12px; font-size: 12px;">EN CIERRE</span>
+  </div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white">
+  </div>
+</div>
 
-- 📄 Learn more about my experiences at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
-
+</div>
 
 ### Connect with me 🔗 :
 <br>
