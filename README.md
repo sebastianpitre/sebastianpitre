@@ -7,6 +7,21 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sebastian+Pitre;Frontend+Developer;%40sebastianpitre10">
 </p>
 
+## 🚀 Proyectos SENA CBC
+
+| [![Vitrina Web](https://images.unsplash.com/photo-1551434678-e076c223a692?w=500&h=250&fit=crop)](./) | [![Ecosuelos](https://images.unsplash.com/photo-1605000797499-95a51c5269ae?w=500&h=250&fit=crop)](./) |
+|:---------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
+| **🌐 Vitrina Web**                                                                                  | **🌱 Ecosuelos**                                                                                   |
+| Sistema de promoción de productos                                                                   | Sistema completo de estudio de suelos                                                              |
+| ![Estado](https://img.shields.io/badge/EN_EJECUCIÓN-FFA500?style=flat-square)                      | ![Estado](https://img.shields.io/badge/EN_EJECUCIÓN-FFA500?style=flat-square)                      |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django) |
+
+| [![Biosoftware](https://images.unsplash.com/photo-1551085254-e96b210db58a?w=500&h=250&fit=crop)](./) | [![Zonificación](https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=500&h=250&fit=crop)](./) |
+|:---------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
+| **🦜 Biosoftware**                                                                                  | **🗺️ Zonificación**                                                                                    |
+| Sistema de avistamiento de aves                                                                     | Gestión de información de suelos y ubicación                                                           |
+| ![Estado](https://img.shields.io/badge/EN_CIERRE-32CD32?style=flat-square)                         | ![Estado](https://img.shields.io/badge/EN_CIERRE-32CD32?style=flat-square)                             |
+| ![Java](https://img.shields.io/badge/-Java-007396?logo=java) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel) |
 
 
 ### Connect with me 🔗 :
