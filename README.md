@@ -21,7 +21,7 @@
 | **Biosoftware**                                                                                  | **Zonificación**                                                                                    |
 | Sistema de avistamiento de aves                                                                     | Gestión de información de suelos y ubicación                                                           |
 | ![Estado](https://img.shields.io/badge/COMPLETADO-2ecc71?style=flat-square)                      | ![Estado](https://img.shields.io/badge/COMPLETADO-2ecc71?style=flat-square)                           |
-| ![Java](https://img.shields.io/badge/-Java-007396?logo=java) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel) |
+| ![Java](https://img.shields.io/badge/-Java-007396?logo=java) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)|
 
 
 ### Connect with me 🔗 :
