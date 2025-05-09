@@ -9,9 +9,9 @@
 
 ## 🚀 Mis Proyectos Favoritos
 
-| [![Vitrina Web](https://semillerosistemasyagroambiental.github.io/semillero/assets/img/proyectos/vitri.jpg)](./) | [![Ecosuelos](https://semillerosistemasyagroambiental.github.io/semillero/assets/img/proyectos/vitri.jpg)](./) |
+| [![Vitrina Web](https://semillerosistemasyagroambiental.github.io/semillero/assets/img/proyectos/vitri.jpg)](./) | [![Ecosuelos]([https://semillerosistemasyagroambiental.github.io/semillero/assets/img/proyectos/vitri.jpg](https://semillerosistemasyagroambiental.github.io/semillero/assets/img/proyectos/ecosuelos.jpg))](./) |
 |:---------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
-| **🌐 Vitrina Web**                                                                                  | **🌱 Ecosuelos**                                                                                   |
+| **Vitrina Web**                                                                                  | **Ecosuelos**                                                                                   |
 | Sistema de promoción de productos                                                                   | Sistema completo de estudio de suelos                                                              |
 | ![Estado](https://img.shields.io/badge/EN_EJECUCIÓN-FFA500?style=flat-square)                      | ![Estado](https://img.shields.io/badge/EN_EJECUCIÓN-FFA500?style=flat-square)                      |
 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django) |
