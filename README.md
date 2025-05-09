@@ -9,7 +9,7 @@
 
 ## 🚀 Mis Proyectos Favoritos
 
-| [![Vitrina Web](https://semillerosistemasyagroambiental.github.io/semillero/assets/img/proyectos/vitri.jpg)](./) | [![Ecosuelos]([https://semillerosistemasyagroambiental.github.io/semillero/assets/img/proyectos/vitri.jpg](https://semillerosistemasyagroambiental.github.io/semillero/assets/img/proyectos/ecosuelos.jpg))](./) |
+| [![Vitrina Web](https://semillerosistemasyagroambiental.github.io/semillero/assets/img/proyectos/vitri.jpg)](./) | [![Ecosuelos](https://semillerosistemasyagroambiental.github.io/semillero/assets/img/proyectos/ecosuelos.jpg)](./) |
 |:---------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
 | **Vitrina Web**                                                                                  | **Ecosuelos**                                                                                   |
 | Sistema de promoción de productos                                                                   | Sistema completo de estudio de suelos                                                              |
