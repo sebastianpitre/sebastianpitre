@@ -9,7 +9,7 @@
 
 ## 🚀 Mis Proyectos Favoritos
 
-| [![Vitrina Web](https://images.unsplash.com/photo-1551434678-e076c223a692?w=500&h=250&fit=crop)](./) | [![Ecosuelos](https://images.unsplash.com/photo-1605000797499-95a51c5269ae?w=500&h=250&fit=crop)](./) |
+| [![Vitrina Web]([https://images.unsplash.com/photo-1551434678-e076c223a692?w=500&h=250&fit=crop](https://semillerosistemasyagroambiental.github.io/semillero/assets/img/proyectos/vitri.jpg))](./) | [![Ecosuelos](https://images.unsplash.com/photo-1605000797499-95a51c5269ae?w=500&h=250&fit=crop)](./) |
 |:---------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
 | **🌐 Vitrina Web**                                                                                  | **🌱 Ecosuelos**                                                                                   |
 | Sistema de promoción de productos                                                                   | Sistema completo de estudio de suelos                                                              |
