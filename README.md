@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sebastian+Pitre;Frontend+Developer;%40sebastianpitre10">
 </p>
 
-## 🚀 Mis Proyectos Favoritos
+## my favorite projects
 
 | [![Vitrina Web](https://semillerosistemasyagroambiental.github.io/semillero/assets/img/proyectos/vitri.jpg)](./) | [![Ecosuelos](https://semillerosistemasyagroambiental.github.io/semillero/assets/img/proyectos/ecosuelos.jpg)](./) |
 |:---------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
