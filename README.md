@@ -16,11 +16,11 @@
 | ![Estado](https://img.shields.io/badge/COMPLETADO-2ecc71?style=flat-square)                      | ![Estado](https://img.shields.io/badge/EN_EJECUCIÓN-FFA500?style=flat-square)                      |
 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django) |
 
-| [![Biosoftware](https://images.unsplash.com/photo-1551085254-e96b210db58a?w=500&h=250&fit=crop)](./) | [![Zonificación](https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=500&h=250&fit=crop)](./) |
+| [![Biosoftware](https://semillerosistemasyagroambiental.github.io/semillero/assets/img/proyectos/biosoft.jpg)](./) | [![Zonificación](https://semillerosistemasyagroambiental.github.io/semillero/assets/img/proyectos/zoni.jpg)](./) |
 |:---------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
-| **🦜 Biosoftware**                                                                                  | **🗺️ Zonificación**                                                                                    |
+| **Biosoftware**                                                                                  | **Zonificación**                                                                                    |
 | Sistema de avistamiento de aves                                                                     | Gestión de información de suelos y ubicación                                                           |
-| ![Estado](https://img.shields.io/badge/EN_CIERRE-32CD32?style=flat-square)                         | ![Estado](https://img.shields.io/badge/EN_CIERRE-32CD32?style=flat-square)                             |
+| ![Estado](https://img.shields.io/badge/COMPLETADO-2ecc71?style=flat-square)                      | ![Estado](https://img.shields.io/badge/COMPLETADO-2ecc71?style=flat-square)                           |
 | ![Java](https://img.shields.io/badge/-Java-007396?logo=java) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel) |
 
 
